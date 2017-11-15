@@ -15,8 +15,8 @@
   <name>shop</name>
   <modules>
   
-    <!--module>logic</module>       <!-- this block must be uncommented in future -->
-        <module>view</module>
+    <!--module>logics</module>       <!-- this block must be uncommented in future -->
+        <module>views</module>
         <module>ear</module-->
         
   </modules>
