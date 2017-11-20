@@ -1,0 +1,5 @@
+si\meeting\domain\GoodsInOrder.class
+si\meeting\ejb\OrdersManagerBean.class
+si\meeting\domain\Order.class
+si\meeting\ejb\GoodsManagerBean.class
+si\meeting\domain\Goods.class
